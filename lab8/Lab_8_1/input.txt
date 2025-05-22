@@ -1,0 +1,7 @@
+﻿Good morning! The first checkpoint is located at (12.5, -3.8); be careful near the cliff.
+Weather update: temperature drops to -5 °C tonight, wind vector [0; -7] will push the drone south.
+Reminder: meet John at the café (49.8397, 24.0297) before noon.
+System log 02-15-2025: anomaly detected at coordinates [-120; 45].
+Random text without vectors to ensure parser skips this line correctly.
+For testing 3-D extension, ignore (2.1, -3.4, 7.8) for now—our current pattern is 2-D only.
+Security note: fallback position set to (0, 0).

@@ -1,0 +1,8 @@
+﻿int main() {
+    int _count = 10;
+    string userName = "John123";
+    double value2 = 5.5;
+    Console.WriteLine("Hello, world!");
+    _tempVar = _count + 20;
+    var result = CalculateResult(value2, _tempVar);
+}
